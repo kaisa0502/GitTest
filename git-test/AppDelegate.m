@@ -18,7 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     NSLog(@"---- kaisa");
-    NSLog(@"-----002");
+    NSLog(@"-----0022");
     return YES;
 }
 
