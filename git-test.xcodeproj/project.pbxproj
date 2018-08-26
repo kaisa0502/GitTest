@@ -16,6 +16,8 @@
 		231FC0B82127A55F00E93233 /* git_testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 231FC0B72127A55F00E93233 /* git_testTests.m */; };
 		231FC0C32127A55F00E93233 /* git_testUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 231FC0C22127A55F00E93233 /* git_testUITests.m */; };
 		2350923D21292CF5001BA027 /* View02.m in Sources */ = {isa = PBXBuildFile; fileRef = 2350923C21292CF4001BA027 /* View02.m */; };
+		2350924321299933001BA027 /* PX.m in Sources */ = {isa = PBXBuildFile; fileRef = 2350924221299933001BA027 /* PX.m */; };
+		23509246212999FD001BA027 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23509245212999FD001BA027 /* MainViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +56,10 @@
 		231FC0C42127A55F00E93233 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2350923B21292CF4001BA027 /* View02.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = View02.h; sourceTree = "<group>"; };
 		2350923C21292CF4001BA027 /* View02.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = View02.m; sourceTree = "<group>"; };
+		2350924121299933001BA027 /* PX.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PX.h; sourceTree = "<group>"; };
+		2350924221299933001BA027 /* PX.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PX.m; sourceTree = "<group>"; };
+		23509244212999FD001BA027 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		23509245212999FD001BA027 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +114,10 @@
 				231FC09F2127A55D00E93233 /* AppDelegate.m */,
 				231FC0A12127A55D00E93233 /* ViewController.h */,
 				231FC0A22127A55D00E93233 /* ViewController.m */,
+				23509244212999FD001BA027 /* MainViewController.h */,
+				23509245212999FD001BA027 /* MainViewController.m */,
+				2350924121299933001BA027 /* PX.h */,
+				2350924221299933001BA027 /* PX.m */,
 				2350923B21292CF4001BA027 /* View02.h */,
 				2350923C21292CF4001BA027 /* View02.m */,
 				231FC0A42127A55D00E93233 /* Main.storyboard */,
@@ -268,6 +278,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2350923D21292CF5001BA027 /* View02.m in Sources */,
+				23509246212999FD001BA027 /* MainViewController.m in Sources */,
+				2350924321299933001BA027 /* PX.m in Sources */,
 				231FC0A32127A55D00E93233 /* ViewController.m in Sources */,
 				231FC0AE2127A55F00E93233 /* main.m in Sources */,
 				231FC0A02127A55D00E93233 /* AppDelegate.m in Sources */,
