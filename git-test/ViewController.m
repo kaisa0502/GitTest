@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     //01
     NSLog(@"return 001");
+    //01
+    NSLog(@"01:-");
     
 }
 
