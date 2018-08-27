@@ -16,6 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //03
+    NSLog(@"0003");
+    
+    
     self.view.backgroundColor = UIColor.whiteColor;
 //    UILabel *lab  = [UILabel new];
 //    lab.text = @"kaisa";
