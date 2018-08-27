@@ -34,6 +34,10 @@
     NSLog(@"this is add by 01-b-02");
     //02
     NSLog(@"=");
+    //
+    //0827
+    //02
+    NSLog(@"0002");
     return YES;
 }
 
