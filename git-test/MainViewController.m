@@ -18,6 +18,7 @@
     [super viewDidLoad];
     //03
     NSLog(@"0003");
+    NSLog(@"00033");
     
     
     self.view.backgroundColor = UIColor.whiteColor;
