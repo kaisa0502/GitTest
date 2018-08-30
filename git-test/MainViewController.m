@@ -20,7 +20,9 @@
     NSLog(@"0003");
     NSLog(@"00033");
     
-    
+    //0830
+    //03
+    NSLog(@"00003");
     self.view.backgroundColor = UIColor.whiteColor;
 //    UILabel *lab  = [UILabel new];
 //    lab.text = @"kaisa";
